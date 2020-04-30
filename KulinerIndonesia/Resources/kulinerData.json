@@ -1,0 +1,92 @@
+[
+    {
+        "name": "DKI Jakarta",
+        "region": "Indonesia",
+        "id": 1001,
+        "iconView": "jakarta",
+        "imageName": "nasi-uduk",
+        "foodName": "Nasi Uduk",
+        "foodDesc": "Nasi uduk atau dalam bahasa Belanda Rijst vermengd met onrust van de liefde atau disingkat Jaloerse rijst adalah nama makanan yang terbuat dari bahan dasar nasi putih yang diaron dan dikukus dengan santan, serta dibumbui dengan pala, kayu manis, jahe, daun serai dan merica."
+    },
+    {
+        "name": "Kota Malang",
+        "region": "Indonesia",
+        "id": 1002,
+        "iconView": "malang",
+        "imageName": "bakso-malang",
+        "foodName": "Bakso Malang",
+        "foodDesc": "Di luar kota Malang, Bakso Malang disebut dengan nama Bakwan Malang. Berbeda dengan bakso pada umumnya yang biasanya berisi campuran bakso halus atau bakso urat dan mi kuning atau mi putih."
+    },
+    {
+        "name": "Kota Bogor",
+        "region": "Indonesia",
+        "id": 1003,
+        "iconView": "jawa barat",
+        "imageName": "gado-gado",
+        "foodName": "Gado-Gado",
+        "foodDesc": "Gado-gado adalah salah satu makanan yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah dan yang dihaluskan disertai irisan telur."
+    },
+    {
+        "name": "Kota Padang",
+        "region": "Indonesia",
+        "id": 1004,
+        "iconView": "padang",
+        "imageName": "rendang",
+        "foodName": "Rendang",
+        "foodDesc": "Rendang atau randang adalah masakan daging dengan bumbu rempah-rempah yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang menggunakan santan sampai kuahnya kering sama sekali."
+    },
+    {
+        "name": "Kota Palembang",
+        "region": "Indonesia",
+        "id": 1005,
+        "iconView": "palembang",
+        "imageName": "pempek",
+        "foodName": "Pempek",
+        "foodDesc": "Pempek atau empek-empek adalah makanan khas Palembang yang terbuat dari daging ikan yang digiling lembut dan tepung kanji, serta beberapa komposisi lain seperti telur, bawang putih yang dihaluskan, penyedap rasa dan garam."
+    },
+    {
+        "name": "Kota Madura",
+        "region": "Indonesia",
+        "id": 1006,
+        "iconView": "jawa timur",
+        "imageName": "sate",
+        "foodName": "Sate Ayam",
+        "foodDesc": "Sate atau satai adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu kemudian dipanggang menggunakan bara arang kayu."
+    },
+    {
+        "name": "Banda Aceh",
+        "region": "Indonesia",
+        "id": 1007,
+        "iconView": "aceh",
+        "imageName": "mie-aceh",
+        "foodName": "Mie Aceh",
+        "foodDesc": "Mie Aceh adalah masakan mie pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut disajikan dalam sup sejenis kari yang gurih dan pedas."
+    },
+    {
+        "name": "Kota Cirebon",
+        "region": "Indonesia",
+        "id": 1008,
+        "iconView": "cirebon",
+        "imageName": "tahu-gejrot",
+        "foodName": "Tahu Gejrot",
+        "foodDesc": "Tahu gejrot adalah makanan khas Cirebon, Indonesia yang terbuat dari tahu dan bumbu lainnya. Tahu gejrot terdiri dari tahu yang sudah digoreng kemudian dipotong agak kecil lalu dimakan dengan kuah yang bumbunya cabe, bawang putih, bawang merah, gula. Biasanya disajikan di layah kecil."
+    },
+    {
+        "name": "Kalimantan Timur",
+        "region": "Indonesia",
+        "id": 1009,
+        "iconView": "kaltim",
+        "imageName": "nasi-tim",
+        "foodName": "Nasi Tim",
+        "foodDesc": "Nasi tim adalah hidangan Tionghoa Indonesia berupa nasi dan ayam berbumbu gurih yang dikukus. Dalam bahasa Indonesia istilah tim mungkin berasal dari bahasa Inggris steam yang berarti dikukus. Bahan-bahannya adalah daging ayam tanpa tulang, jamur, dan telur ayam rebus, semuanya dibumbui bawang putih dan kecap asin."
+    },
+    {
+        "name": "Daerah Istimewa Yogyakarta",
+        "region": "Indonesia",
+        "id": 1010,
+        "iconView": "yogyakarta",
+        "imageName": "gudeg",
+        "foodName": "Gudeg",
+        "foodDesc": "Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan."
+    },
+]
